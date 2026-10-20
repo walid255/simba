@@ -1,3 +1,8 @@
-name = "simba"
+name = "simba-yamoto"
 pages_build_output_dir = "dist"
 compatibility_date = "2026-10-20"
+
+[env.production]
+routes = [
+  { pattern = "simbayamoto.com/*", zone_name = "simbayamoto.com" }
+]
