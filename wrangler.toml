@@ -1,8 +1,0 @@
-name = "simba-yamoto"
-compatibility_date = "2026-10-20"
-pages_build_output_dir = "dist"
-
-[env.production]
-routes = [
-  { pattern = "simbayamoto.pages.dev/*", zone_name = "simbayamoto.pages.dev" }
-]
