@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="48" fill="#DC2626"/>
+  <!-- Crown / Mane Flame Shapes -->
+  <path d="M50 15 L58 35 L75 22 L67 44 L88 40 L73 57 L85 70 L65 67 L60 85 L50 72 L40 85 L35 67 L15 70 L27 57 L12 40 L33 44 L25 22 L42 35 Z" fill="#FFFFFF" opacity="0.95"/>
+  <path d="M50 24 L56 38 L68 30 L62 45 L76 43 L65 54 L74 63 L60 61 L56 72 L50 64 L44 72 L40 61 L26 63 L35 54 L24 43 L38 45 L32 30 L44 38 Z" fill="#EF4444"/>
+  <!-- Lion Face Center -->
+  <circle cx="50" cy="52" r="16" fill="#FFFFFF"/>
+  <circle cx="44" cy="50" r="3" fill="#991B1B"/>
+  <circle cx="56" cy="50" r="3" fill="#991B1B"/>
+  <path d="M47 55 L53 55 L50 59 Z" fill="#DC2626"/>
+  <path d="M46 60 Q50 63 54 60" stroke="#DC2626" stroke-width="2" stroke-linecap="round"/>
+</svg>

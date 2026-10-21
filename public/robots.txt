@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /category/
+Allow: /article/
+Allow: /faq
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /private/
+
+Sitemap: https://simbayamoto.pages.dev/sitemap.xml
+Host: https://simbayamoto.pages.dev

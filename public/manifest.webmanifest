@@ -1,0 +1,48 @@
+{
+  "name": "Simba Yamoto | Hot Entertainment & News",
+  "short_name": "Simba Yamoto",
+  "description": "Fast, fearless breaking entertainment, celebrity gossip, music, trending viral culture and global news.",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#dc2626",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": [
+    "entertainment",
+    "news",
+    "lifestyle"
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Entertainment",
+      "url": "/category/entertainment",
+      "description": "View hottest entertainment updates"
+    },
+    {
+      "name": "Breaking News",
+      "url": "/category/news",
+      "description": "Breaking global news & headlines"
+    },
+    {
+      "name": "Music & Trends",
+      "url": "/category/music",
+      "description": "Trending music and artist spotlights"
+    }
+  ]
+}

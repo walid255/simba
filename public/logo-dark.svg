@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" fill="none">
+  <!-- Flame Lion Emblem -->
+  <g transform="translate(4, 4)">
+    <rect width="56" height="56" rx="14" fill="#DC2626"/>
+    <!-- Mane fire rays -->
+    <path d="M28 8 L32 20 L42 12 L38 24 L50 22 L41 32 L48 40 L37 38 L34 48 L28 41 L22 48 L19 38 L8 40 L15 32 L6 22 L18 24 L14 12 L24 20 Z" fill="#FFFFFF"/>
+    <circle cx="28" cy="29" r="9" fill="#DC2626"/>
+    <circle cx="25" cy="28" r="1.8" fill="#FFFFFF"/>
+    <circle cx="31" cy="28" r="1.8" fill="#FFFFFF"/>
+    <polygon points="26.5,31 29.5,31 28,33" fill="#FFFFFF"/>
+  </g>
+  
+  <!-- Text Brand -->
+  <text x="72" y="34" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="900" fill="#EF4444" letter-spacing="0.5">SIMBA</text>
+  <text x="156" y="34" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="900" fill="#FFFFFF" letter-spacing="0.5">YAMOTO</text>
+  <rect x="72" y="42" width="230" height="3" fill="#EF4444" rx="1.5"/>
+  <text x="73" y="55" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="700" fill="#D1D5DB" letter-spacing="2">ENTERTAINMENT &amp; NEWS MEDIA</text>
+</svg>
