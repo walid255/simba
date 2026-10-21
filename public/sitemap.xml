@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://simbayamoto.pages.dev/</loc>
+    <lastmod>2026-10-20T10:00:00+03:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Categories -->
+  <url>
+    <loc>https://simbayamoto.pages.dev/category/entertainment</loc>
+    <lastmod>2026-10-20T10:00:00+03:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://simbayamoto.pages.dev/category/news</loc>
+    <lastmod>2026-10-20T10:00:00+03:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://simbayamoto.pages.dev/category/music</loc>
+    <lastmod>2026-10-20T10:00:00+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://simbayamoto.pages.dev/category/celebrity</loc>
+    <lastmod>2026-10-20T10:00:00+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://simbayamoto.pages.dev/category/sports</loc>
+    <lastmod>2026-10-20T10:00:00+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://simbayamoto.pages.dev/category/tech</loc>
+    <lastmod>2026-10-20T10:00:00+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- FAQ & Info -->
+  <url>
+    <loc>https://simbayamoto.pages.dev/faq</loc>
+    <lastmod>2026-10-20T10:00:00+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Featured News & Entertainment Articles -->
+  <url>
+    <loc>https://simbayamoto.pages.dev/article/global-music-awards-2026-african-giants-dominate-nominations</loc>
+    <lastmod>2026-10-20T09:30:00+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Simba Yamoto News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T09:30:00+03:00</news:publication_date>
+      <news:title>Global Music Awards 2026: African Giants Dominate Record-Breaking Nominations</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://simbayamoto.pages.dev/article/hollywood-blockbuster-sets-new-box-office-milestone</loc>
+    <lastmod>2026-10-20T08:15:00+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://simbayamoto.pages.dev/article/exclusive-behind-the-scenes-of-the-viral-stadium-tour</loc>
+    <lastmod>2026-10-20T07:45:00+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://simbayamoto.pages.dev/article/tech-giants-unveil-next-gen-ai-entertainment-studio</loc>
+    <lastmod>2026-10-19T22:00:00+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://simbayamoto.pages.dev/article/champions-league-showdown-thrilling-stoppage-time-drama</loc>
+    <lastmod>2026-10-19T20:10:00+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://simbayamoto.pages.dev/article/streaming-wars-how-creator-owned-platforms-are-rewriting-tv</loc>
+    <lastmod>2026-10-19T18:00:00+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
